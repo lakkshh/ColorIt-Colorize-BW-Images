@@ -52,4 +52,4 @@ There are a few re-coloring deep learning models which make use of Inception-Res
 ![Upload Image](https://i.ibb.co/4j9MfRV/Screenshot-20211015-211853.jpg "Upload Image")
 
 - Colorize
-![Colorize](https://i.ibb.co/2Z2fT0b/Screenshot-20211015-211917.jpg "Colorize")
+![Colorize](https://i.ibb.co/2Z2fT0b/Screenshot-20211015-211917.jpg "Colorize") 
