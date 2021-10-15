@@ -45,11 +45,11 @@ There are a few re-coloring deep learning models which make use of Inception-Res
 
 ### I/O Screenshots (Android App)
 - Home Page Layout
-![Layout 1](https://i.ibb.co/2YMGz3q/Screenshot-20211015-211834.jpg "Layput 1")
-![Layout 2](https://i.ibb.co/87WNXWr/Screenshot-20211015-211840.jpg "Layput 2")
+<img src="https://i.ibb.co/2YMGz3q/Screenshot-20211015-211834.jpg" height="800">
+<img src="https://i.ibb.co/87WNXWr/Screenshot-20211015-211840.jpg" height="800">
 
 - Upload Image
-![Upload Image](https://i.ibb.co/4j9MfRV/Screenshot-20211015-211853.jpg "Upload Image")
+<img src="https://i.ibb.co/4j9MfRV/Screenshot-20211015-211853.jpg" height="800">
 
 - Colorize
-![Colorize](https://i.ibb.co/2Z2fT0b/Screenshot-20211015-211917.jpg "Colorize") 
+<img src="https://i.ibb.co/2Z2fT0b/Screenshot-20211015-211917.jpg" height="800">
